@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/xr05c31mesipj29m?svg=true)](https://ci.appveyor.com/project/dmitry-korotkov/properties-and-wrappers-2-554od)
